@@ -1,10 +1,10 @@
 
 
 # **💼 Digital Wallet System – Java Mini Project**
-## **📜 Project Overview **
+## 📜 Project Overview 
 This Digital Wallet System is a GUI-based desktop application developed in Java using Swing. It allows users to manage virtual wallet activities such as deposits, withdrawals, transfers, transaction history, and PDF mini-statements. The system supports two roles: user and admin.
 
-## **⚙️ Technologies Used**
+## ⚙️ Technologies Used
 Java (Swing) – for GUI development
 
 MySQL – for database management
@@ -15,8 +15,8 @@ iText PDF Library – to generate PDF mini statements
 
 CardLayout – for UI panel transitions
 
-## **👤 User Types **
-## ** 1. Regular User **
+## 👤 User Types 
+##  1. Regular User 
 Can register and login
 
 Perform deposit, withdraw, send money, and request money
@@ -25,14 +25,14 @@ View current balance and transaction history
 
 Generate PDF mini statements
 
-### ** 2. Admin **
+### 2. Admin 
 Login using admin credentials
 
 View all users, transactions, and user activity logs
 
 Switch between admin and user panel
 
-## **🔐 Features **
+## 🔐 Features 
 ** Feature	Description
 Authentication	Login and registration for users with password match and validation
 Role-Based Access	Admin and user functionalities are separated
@@ -43,7 +43,7 @@ Activity Logging	Every major action (login, logout, deposit etc.) is logged
 PDF Mini Statement	Generates and saves a formatted PDF file of recent transactions
 Admin Controls	Admins can view all users, transactions, and activity logs **
 
-## **🗂️ Folder Structure (if applicable) **
+## 🗂️ Folder Structure (if applicable) 
 
 project-root/
 │
@@ -51,7 +51,7 @@ project-root/
 ├── walletdb.sql (suggested)           # SQL script to create required DB and tables
 └── README.md                          # This file
 
-## **🧱 Database Structure **
+## 🧱 Database Structure 
 You’ll need to create a MySQL database named walletdb with tables like:
 
 
@@ -89,9 +89,9 @@ Compile and run WalletAppGUI.java using any Java IDE or CLI.
 
 Start using the wallet app!
 
-## **✍️ Contributors **
-** Bharat Kolhe
-Tushar Nagare **
+## ✍️ Contributors 
+ Bharat Kolhe
+Tushar Nagare 
 
-## **📄 License **
+## 📄 License 
 This is a mini-project developed for academic purposes. Modify and reuse freely.
