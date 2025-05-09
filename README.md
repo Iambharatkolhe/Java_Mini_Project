@@ -90,7 +90,7 @@ Compile and run WalletAppGUI.java using any Java IDE or CLI.
 Start using the wallet app!
 
 ## ✍️ Contributors 
- Bharat Kolhe
+ Bharat Kolhe  &&
 Tushar Nagare 
 
 ## 📄 License 
